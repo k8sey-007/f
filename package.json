@@ -1,0 +1,17 @@
+{
+  "name": "ssap-web",
+  "version": "1.0.0",
+  "description": "A hacky implementation of webOS remote control API on the web",
+  "main": "demo.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "author": "Piotr Dobrowolski",
+  "license": "MIT"
+}
